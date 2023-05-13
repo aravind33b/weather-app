@@ -9,4 +9,5 @@ To run the application in your local system, follow the steps below:
   2. Run npm i and then npm start
 
 Demo:
+
 ![D7AB9405-AE42-467B-8791-EFEAF90B1CD7_1_102_a](https://github.com/aravind33b/weather-app/assets/113400454/580a1283-9e5f-499f-9152-ee6180406219)
