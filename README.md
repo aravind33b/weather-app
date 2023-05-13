@@ -10,4 +10,5 @@ To run the application in your local system, follow the steps below:
 
 Demo:
 
-![D7AB9405-AE42-467B-8791-EFEAF90B1CD7_1_102_a](https://github.com/aravind33b/weather-app/assets/113400454/580a1283-9e5f-499f-9152-ee6180406219)
+
+![D7AB9405-AE42-467B-8791-EFEAF90B1CD7_1_102_a](https://github.com/aravind33b/weather-app/assets/113400454/868983a0-36fb-460f-a9eb-1f9e24ee2670.gif)
